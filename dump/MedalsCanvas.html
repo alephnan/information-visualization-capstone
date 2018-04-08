@@ -1,0 +1,41 @@
+<!doctype html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<title></title>
+		<style>
+			canvas {
+				border: 1px solid black;
+			}
+		</style>
+		<script>
+			window.onload = function() {
+				var myCanvas = document.getElementById("medals");
+				
+				var canadaCircle = myCanvas.getContext("2d");
+				canadaCircle.fillStyle="#4D8390";
+				canadaCircle.beginPath();
+				canadaCircle.arc(123,183,31,0,2*Math.PI);
+				canadaCircle.fill();
+				canadaCircle.font = "12px Arial";
+				canadaCircle.fillStyle="#fff";
+				canadaCircle.fillText("Canada",101,185);
+				
+				//japanCircle.fillText("Japan",796,259);
+				var japanCircle = myCanvas.getContext("2d");
+				japanCircle.fillStyle="#929b62";
+				japanCircle.beginPath();
+				japanCircle.arc(812, 255, 26,0,2*Math.PI);
+				japanCircle.fill();
+				japanCircle.font = "12px Arial";
+				japanCircle.fillStyle="#fff";
+				japanCircle.fillText("Japan",796,259);
+			};
+		</script>
+	</head>
+
+	<body>
+		<canvas id="medals" width="955" height="462"></canvas>
+	</body>
+</html>
+

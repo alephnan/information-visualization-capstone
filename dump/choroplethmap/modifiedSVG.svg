@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="960px"
+	 height="560px" viewBox="0 0 960 560" enable-background="new 0 0 960 560" xml:space="preserve">
+
+
+	<rect x="98" y="54.5" fill="none" stroke="#000000" width="120" height="59"/>
+	<rect x="114.5" y="54.5" fill="none" stroke="#ff0000" width="88" height="59" rx="40" ry = "40"/>
+
+	<circle fill="#999999" stroke="#000000" cx="155" cy="189" r="20"/>
+	<ellipse fill="none" stroke="#ff0000" cx="155" cy="189" rx="50" ry="60"/>
+
+	<line fill="none" stroke="#000000" x1="260" y1="60" x2="270" y2="90"/>
+	<polyline fill="none" stroke="#ff0000"  points="260,60 300,65 270,90"/>
+	<polygon fill="none" stroke="#00ff00"  points="260,160 325,185 335,215 270,190"/>
+	<path fill="none" stroke="#0000ff"  d="M260,260l0,0,55,10,68,51.5"/>
+
+
+</svg>

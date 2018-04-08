@@ -1,0 +1,192 @@
+{
+
+	"HTMLFileName":"MedalsMovement.html",
+	"pref__general__AutoKeyframePropertiesArmed":"true",
+	"symbol_stage":{
+		"dummyStageParentWidth":"955px",
+		"element_${_Text3}":{
+			"timelineColor2":"0x1095d2",
+			"invisible":"false",
+			"timelineColor":"0x00a9fa",
+			"animationEnabled":"false",
+			"timelineColor3":"0x29647e"},
+		"element_${_Text}":{
+			"timelineColor2":"0x4fa275",
+			"timelineColor3":"0x456a55",
+			"timelineColor":"0x50bd82",
+			"timelineTreeOpened":"true",
+			"animationEnabled":"false"},
+		"element_${_RectangleCopy}":{
+			"timelineColor2":"0xd8b467",
+			"timelineColor3":"0x81714f",
+			"timelineColor":"0xffd46d"},
+		"element_${_Text4Copy}":{
+			"timelineColor2":"0xd35d6e",
+			"timelineColor3":"0x7e4b52",
+			"animationEnabled":"false",
+			"timelineColor":"0xfb657a"},
+		"element_${_Text2}":{
+			"timelineColor2":"0x326a96",
+			"timelineColor3":"0x385063",
+			"timelineColor":"0x2f73ad"},
+		"element_${_rankingBtn}":{
+			"timelineColor2":"0x326a96",
+			"timelineColor3":"0x385063",
+			"animationEnabled":"true",
+			"timelineColor":"0x2f73ad"},
+		"element_${_Rectangle2}":{
+			"timelineColor2":"0x5a558a",
+			"timelineColor3":"0x4a485e",
+			"timelineColor":"0x63599f",
+			"animationEnabled":"false",
+			"invisible":"false"},
+		"element_${_Japan}":{
+			"timelineColor2":"0x81aa62",
+			"timelineColor3":"0x5b6c4d",
+			"animationEnabled":"true",
+			"timelineColor":"0x91c767"},
+		"element_${_geographicBtn}":{
+			"timelineColor2":"0x168c84",
+			"timelineColor3":"0x2a605c",
+			"animationEnabled":"true",
+			"timelineColor":"0x00a096"},
+		"element_${_Rectangle2Copy}":{
+			"timelineColor2":"0xba5b89",
+			"invisible":"false",
+			"timelineColor":"0xdb619d",
+			"animationEnabled":"false",
+			"timelineColor3":"0x734a5f"},
+		"element_${_Canada}":{
+			"timelineColor2":"0xcbbd71",
+			"timelineColor3":"0x7b7652",
+			"animationEnabled":"true",
+			"timelineColor":"0xeedf79"},
+		"element_${_selectedRanking}":{
+			"timelineColor2":"0x1aa38f",
+			"timelineColor3":"0x2a6a61",
+			"animationEnabled":"true",
+			"timelineColor":"0x00bda4"},
+		"element_${_selectedGeographic}":{
+			"timelineColor2":"0x4fa275",
+			"timelineColor3":"0x456a55",
+			"animationEnabled":"true",
+			"timelineColor":"0x50bd82"},
+		"defaultStageParentHeight":"462px",
+		"dummyStageParentHeight":"462px",
+		"element_${_Ellipse2}":{
+			"timelineColor2":"0x1aa38f",
+			"timelineColor3":"0x2a6a61",
+			"animationEnabled":"false",
+			"timelineColor":"0x00bda4"},
+		"defaultStageParentWidth":"955px",
+		"element_${_Text4}":{
+			"timelineColor2":"0xb099ce",
+			"timelineColor3":"0x70657c",
+			"timelineColor":"0xceaef4",
+			"timelineTreeOpened":"true",
+			"animationEnabled":"false"},
+		"element_${_Stage}":{
+			"timelineColor2":"0xcbbd71",
+			"timelineColor3":"0x7b7652",
+			"timelineTreeOpened":"true",
+			"timelineColor":"0xeedf79"},
+		"element_${_Rectangle}":{
+			"timelineColor2":"0x107faa",
+			"timelineColor3":"0x295a6d",
+			"animationEnabled":"false",
+			"timelineColor":"0x008dc8"}},
+	"TransitionIdCounter":"26",
+	"CompZoomFactor":"100",
+	"StageZoomFactor":"100",
+	"pixelsPerMs":"0.2",
+	"pref__general__GenerateSmoothTransitions":"true",
+	"pref__general__AutoKeyframeProperties":"true",
+	"usedBOM":"false",
+	"nextElementColorIndex":"7",
+	"stage-Default Timeline_playhead_ms":"1000",
+	"pref__general__FilterNonAnimatedElements":"false",
+	"ModelData":"{\
+\"stage\": {\
+   \"timelines\": {\
+      \"Default Timeline\": {\
+            \"ElementKeyframes\": {\
+                \"${_Rectangle2}\": [], \
+                \"${_Canada}\": [], \
+                \"${_Text3}\": [], \
+                \"${_RectangleCopy}\": [], \
+                \"${_Rectangle}\": [], \
+                \"${_Text4Copy}\": [], \
+                \"${_Canada2}\": [], \
+                \"${_Rectangle2Copy}\": [], \
+                \"${_rankingBtn}\": [], \
+                \"${_geographicBtn}\": [], \
+                \"${_Japan}\": [], \
+                \"${_Text}\": [], \
+                \"${_Text4}\": [], \
+                \"${_Stage}\": [], \
+                \"${_selectedGeographic}\": [], \
+                \"${_selectedRanking}\": [], \
+                \"${_Japan2}\": []\
+            }\
+      }\
+   }},\
+\"Preloader\": {\
+   \"timelines\": {\
+\
+   }},\
+\"Down-level\": {\
+   \"timelines\": {\
+\
+   }},\
+\"Canada\": {\
+   \"timelines\": {\
+      \"Default Timeline\": {\
+            \"ElementKeyframes\": {\
+                \"${_Canada}\": [], \
+                \"${_Text}\": []\
+            }\
+      }\
+   }},\
+\"Japan\": {\
+   \"timelines\": {\
+      \"Default Timeline\": {\
+            \"ElementKeyframes\": {\
+                \"${_Text3}\": [], \
+                \"${_Japan}\": []\
+            }\
+      }\
+   }},\
+\"selectedGeographic\": {\
+   \"timelines\": {\
+      \"Default Timeline\": {\
+            \"ElementKeyframes\": {\
+                \"${_Rectangle2}\": []\
+            }\
+      }\
+   }},\
+\"selectedRanking\": {\
+   \"timelines\": {\
+      \"Default Timeline\": {\
+            \"ElementKeyframes\": {\
+                \"${_Rectangle2Copy}\": []\
+            }\
+      }\
+   }},\
+\"geographicBtn\": {\
+   \"timelines\": {\
+      \"Default Timeline\": {\
+            \"ElementKeyframes\": {\
+                \"${_Text4}\": []\
+            }\
+      }\
+   }},\
+\"rankingBtn\": {\
+   \"timelines\": {\
+      \"Default Timeline\": {\
+            \"ElementKeyframes\": {\
+                \"${_Text4Copy}\": []\
+            }\
+      }\
+   }}\
+}",
+	"viewStartY":"0"}

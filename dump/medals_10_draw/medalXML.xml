@@ -1,0 +1,34 @@
+<countries>
+   <country id='Japan'>
+      <year id='1964'>
+         <totalMedals>29</totalMedals>
+         <goldMedals>16</goldMedals>
+         <silverMedals>5</silverMedals>
+         <bronzeMedals>8</bronzeMedals>
+      </year>
+   </country>
+    <country id='Japan'>
+      <year id='2008'>
+         <totalMedals>25</totalMedals>
+         <goldMedals>9</goldMedals>
+         <silverMedals>6</silverMedals>
+         <bronzeMedals>10</bronzeMedals>
+      </year>
+   </country>
+    <country id='Canada'>
+      <year id='2008'>
+         <totalMedals>18</totalMedals>
+         <goldMedals>3</goldMedals>
+         <silverMedals>9</silverMedals>
+         <bronzeMedals>6</bronzeMedals>
+      </year>
+   </country>
+    <country id='Canada'>
+      <year id='1964'>
+         <totalMedals>4</totalMedals>
+         <goldMedals>1</goldMedals>
+         <silverMedals>2</silverMedals>
+         <bronzeMedals>1</bronzeMedals>
+      </year>
+   </country>
+</countries>

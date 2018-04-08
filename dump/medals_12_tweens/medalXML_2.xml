@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<countries>
+	<country id='Japan' color='0x979D6D'>
+		<year id='2008'>
+			<totalMedals>25</totalMedals>
+			<goldMedals>9</goldMedals>
+			<silverMedals>6</silverMedals>
+			<bronzeMedals>10</bronzeMedals>
+			<ranking>
+				<x>368.7</x>	
+				<y>235.8</y>
+			</ranking>
+			<geographic>
+				<x>814.55</x>	
+				<y>225.80</y>
+			</geographic>
+			<radius>31</radius>
+		</year>
+		<year id='1964'>
+			<totalMedals>29</totalMedals>
+			<goldMedals>16</goldMedals>
+			<silverMedals>5</silverMedals>
+			<bronzeMedals>8</bronzeMedals>
+			<ranking>
+				<x>443.65</x>	
+				<y>165.8</y>
+			</ranking>
+			<geographic>
+				<x>726.65</x>	
+				<y>257.8</y>
+			</geographic>
+			<radius>32.4</radius>
+		</year>
+	</country>
+	<country id='Canada' color = '0x4D9390'>
+		<year id='2008'>
+			<totalMedals>18</totalMedals>
+			<goldMedals>3</goldMedals>
+			<silverMedals>9</silverMedals>
+			<bronzeMedals>6</bronzeMedals>
+			<ranking>
+				<x>566.4</x>	
+				<y>240.8</y>
+			</ranking>
+			<geographic>
+				<x>124.55</x>	
+				<y>157.8</y>
+			</geographic>
+			<radius>26</radius>
+		</year>
+		<year id='1964'>
+			<totalMedals>4</totalMedals>
+			<goldMedals>1</goldMedals>
+			<silverMedals>2</silverMedals>
+			<bronzeMedals>1</bronzeMedals>
+			<ranking>
+				<x>618.4</x>	
+				<y>250.8</y>
+			</ranking>
+			<geographic>
+				<x>131.45</x>	
+				<y>184.8</y>
+			</geographic>
+			<radius>12.05</radius>
+		</year>
+	</country>
+</countries>
