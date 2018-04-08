@@ -13,3 +13,5 @@
 
 ## Analysis
 *  [Color Analysis](https://alephnan.github.io/information-visualization-capstone/dump/illustrator/color_analysis.pdf)
+*  [Font Analysis](https://alephnan.github.io/information-visualization-capstone/dump/illustrator/font_analysis.pdf)
+*  [Gas Prices Design Analysis](https://alephnan.github.io/information-visualization-capstone/dump/gas_prices/gas_prices_analysis.pdf)
