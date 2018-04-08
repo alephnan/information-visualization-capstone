@@ -11,8 +11,13 @@
 *  [Seattle Northgate Park-Style Map](https://alephnan.github.io/information-visualization-capstone/dump/illustrator/map_park_style.pdf)
 *  [Network Recoloring](https://alephnan.github.io/information-visualization-capstone/dump/illustrator/network_recolored.pdf)
 *  [Gas Prices by State](https://alephnan.github.io/information-visualization-capstone/dump/gas_prices/gas_prices.pdf) + [Analysis](https://alephnan.github.io/information-visualization-capstone/dump/gas_prices/gas_prices_analysis.pdf)
+*  [Overview Style Map](https://alephnan.github.io/information-visualization-capstone/dump/illustrator/map_for_overview.jpg)
+*  [Seattle Bus Routes](https://alephnan.github.io/information-visualization-capstone/dump/bus_routes/seattle_bus_routes.pdf)
+
 
 ## Analysis
 *  [Color Analysis](https://alephnan.github.io/information-visualization-capstone/dump/illustrator/color_analysis.pdf)
+*  [Color Analysis #2](https://alephnan.github.io/information-visualization-capstone/dump/midterm_exam/infographics_color_analysis.png)
 *  [Font Analysis](https://alephnan.github.io/information-visualization-capstone/dump/illustrator/font_analysis.pdf)
+
 
