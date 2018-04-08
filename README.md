@@ -17,5 +17,7 @@
 
 ## Analysis
 *  [Color Analysis](https://alephnan.github.io/information-visualization-capstone/dump/illustrator/color_analysis.pdf)
+*  [Color Analysis #2](https://alephnan.github.io/information-visualization-capstone/dump/midterm_exam/infographics_color_analysis.png)
 *  [Font Analysis](https://alephnan.github.io/information-visualization-capstone/dump/illustrator/font_analysis.pdf)
+
 
