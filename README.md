@@ -3,6 +3,7 @@
 *  [Interactive University of Washington Campus Map](https://alephnan.github.io/information-visualization-capstone/dump/campus_map/index.html)
 *  [Drug Consumption Lifecycle](https://alephnan.github.io/information-visualization-capstone/dump/drug_animation/scenes.html)
 *  [States Choropleth Map](https://alephnan.github.io/information-visualization-capstone/dump/states/index.html)
+*  [NY Times Olympic Medals](https://alephnan.github.io/information-visualization-capstone/dump/olympic_medals/medal_9/index.html)
 
 ## Designs
 *  [Seattle Transit Tube Map](https://alephnan.github.io/information-visualization-capstone/dump/final_exam/seattle_tube.pdf) + [Analysis](https://alephnan.github.io/information-visualization-capstone/dump/final_exam/complete.pdf)
