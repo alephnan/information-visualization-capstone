@@ -10,8 +10,9 @@
 *  [Bio-fuels Breakdown](https://alephnan.github.io/information-visualization-capstone/dump/bio_fuels/bio_fuels_redesign.pdf)
 *  [Seattle Northgate Park-Style Map](https://alephnan.github.io/information-visualization-capstone/dump/illustrator/map_park_style.pdf)
 *  [Network Recoloring](https://alephnan.github.io/information-visualization-capstone/dump/illustrator/network_recolored.pdf)
+*  [Gas Prices by State](https://alephnan.github.io/information-visualization-capstone/dump/gas_prices/gas_prices.pdf) + [Analysis](https://alephnan.github.io/information-visualization-capstone/dump/gas_prices/gas_prices_analysis.pdf)
 
 ## Analysis
 *  [Color Analysis](https://alephnan.github.io/information-visualization-capstone/dump/illustrator/color_analysis.pdf)
 *  [Font Analysis](https://alephnan.github.io/information-visualization-capstone/dump/illustrator/font_analysis.pdf)
-*  [Gas Prices Design Analysis](https://alephnan.github.io/information-visualization-capstone/dump/gas_prices/gas_prices_analysis.pdf)
+
